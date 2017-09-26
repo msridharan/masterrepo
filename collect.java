@@ -26,7 +26,7 @@ public static void main(String args[]) {
 		for(int k:arr) {
 			System.out.println(k);
 		}
-		System.out.println("First Biggest Number is = "+arr[arr.length-1]);
+		System.out.println("First Biggest Number is is = "+arr[arr.length-1]);
 		System.out.println("Second Biggest Number is = "+arr[arr.length-2]);
 	}
 }
